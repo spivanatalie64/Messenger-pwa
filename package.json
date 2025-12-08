@@ -1,0 +1,25 @@
+{
+  "name": "messenger-pwa",
+  "version": "1.0.0",
+  "description": "FaceBook Messenger Electron Map.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spivanatalie64/Messenger-pwa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/spivanatalie64/Messenger-pwa/issues"
+  },
+  "homepage": "https://github.com/spivanatalie64/Messenger-pwa#readme",
+  "devDependencies": {
+    "electron": "^39.2.6"
+  }
+}

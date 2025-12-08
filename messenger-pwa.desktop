@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Messenger
+Comment=Facebook Messenger Electron App
+Exec=messenger-pwa %U
+Icon=messenger-pwa
+Terminal=false
+Type=Application
+Categories=Network;InstantMessaging;
+StartupNotify=true
