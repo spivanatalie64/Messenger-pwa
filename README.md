@@ -1,2 +1,2 @@
 # Messenger-pwa
-FaceBook Messenger Electron Map.
+FaceBook Messenger Electron App.
